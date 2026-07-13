@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06",
+  "updated": "2026-07-13",
   "note": "Cron cache of gpupoet GPU prices. catalog.json is the source of truth; this is a log.",
   "prices": {
-    "gpu-rtx3090": 1164,
-    "gpu-rtx3090-ti": 1470,
-    "gpu-rtx5090": 3884
+    "gpu-rtx3090": 1136,
+    "gpu-rtx3090-ti": 1565,
+    "gpu-rtx5090": 3803
   },
   "sources": {
     "gpu-rtx3090": "https://gpupoet.com/gpu/learn/price/july-2026/nvidia-geforce-rtx-3090",
