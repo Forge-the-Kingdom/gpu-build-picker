@@ -17,29 +17,25 @@
       },
       "note": "Used market — varies; shop around.",
       "price": {
-        "value": 1187,
+        "value": 1344,
         "estimated": false,
         "sources": [
           {
-            "url": "https://gpupoet.com/gpu/learn/price/august-2026/nvidia-geforce-rtx-3090",
-            "value": 1187,
-            "sourced_at": "2026-08-01",
+            "url": "https://gpupoet.com/gpu/learn/price/october-2026/nvidia-geforce-rtx-3090",
+            "value": 1344,
+            "sourced_at": "2026-10-01",
             "method": "gpupoet",
             "confidence": "medium"
           },
           {
-            "url": "https://gpupoet.com/gpu/learn/price/july-2026/nvidia-geforce-rtx-3090",
-            "value": 1154,
-            "sourced_at": "2026-07-01",
+            "url": "https://gpupoet.com/gpu/learn/price/september-2026/nvidia-geforce-rtx-3090",
+            "value": 1355,
+            "sourced_at": "2026-09-01",
             "method": "gpupoet",
             "confidence": "medium"
           }
         ],
         "history": [
-          {
-            "week": "2026-07-13",
-            "value": 1136
-          },
           {
             "week": "2026-07-20",
             "value": 1138
@@ -83,6 +79,10 @@
           {
             "week": "2026-09-28",
             "value": 1187
+          },
+          {
+            "week": "2026-10-05",
+            "value": 1344
           }
         ]
       }
@@ -100,36 +100,25 @@
       },
       "note": "Used market — varies.",
       "price": {
-        "value": 1766,
+        "value": 1807,
         "estimated": false,
         "sources": [
           {
+            "url": "https://gpupoet.com/gpu/learn/price/october-2026/nvidia-geforce-rtx-3090-ti",
+            "value": 1807,
+            "sourced_at": "2026-10-01",
+            "method": "gpupoet",
+            "confidence": "medium"
+          },
+          {
             "url": "https://gpupoet.com/gpu/learn/price/september-2026/nvidia-geforce-rtx-3090-ti",
-            "value": 1766,
+            "value": 1773,
             "sourced_at": "2026-09-01",
-            "method": "gpupoet",
-            "confidence": "medium"
-          },
-          {
-            "url": "https://gpupoet.com/gpu/learn/price/august-2026/nvidia-geforce-rtx-3090-ti",
-            "value": 1487,
-            "sourced_at": "2026-08-01",
-            "method": "gpupoet",
-            "confidence": "medium"
-          },
-          {
-            "url": "https://gpupoet.com/gpu/learn/price/july-2026/nvidia-geforce-rtx-3090-ti",
-            "value": 1609,
-            "sourced_at": "2026-07-01",
             "method": "gpupoet",
             "confidence": "medium"
           }
         ],
         "history": [
-          {
-            "week": "2026-07-13",
-            "value": 1565
-          },
           {
             "week": "2026-07-20",
             "value": 1639
@@ -173,6 +162,10 @@
           {
             "week": "2026-09-28",
             "value": 1766
+          },
+          {
+            "week": "2026-10-05",
+            "value": 1807
           }
         ]
       }
@@ -215,36 +208,32 @@
         "watts": 575
       },
       "price": {
-        "value": 5367,
+        "value": 6076,
         "estimated": false,
         "sources": [
           {
+            "url": "https://gpupoet.com/gpu/learn/price/october-2026/nvidia-geforce-rtx-5090",
+            "value": 6076,
+            "sourced_at": "2026-10-01",
+            "method": "gpupoet",
+            "confidence": "medium"
+          },
+          {
             "url": "https://gpupoet.com/gpu/learn/price/september-2026/nvidia-geforce-rtx-5090",
-            "value": 5367,
+            "value": 5581,
             "sourced_at": "2026-09-01",
             "method": "gpupoet",
             "confidence": "medium"
           },
           {
             "url": "https://gpupoet.com/gpu/learn/price/august-2026/nvidia-geforce-rtx-5090",
-            "value": 4209,
+            "value": 4398,
             "sourced_at": "2026-08-01",
-            "method": "gpupoet",
-            "confidence": "medium"
-          },
-          {
-            "url": "https://gpupoet.com/gpu/learn/price/july-2026/nvidia-geforce-rtx-5090",
-            "value": 3763,
-            "sourced_at": "2026-07-01",
             "method": "gpupoet",
             "confidence": "medium"
           }
         ],
         "history": [
-          {
-            "week": "2026-07-13",
-            "value": 3803
-          },
           {
             "week": "2026-07-20",
             "value": 3767
@@ -288,6 +277,10 @@
           {
             "week": "2026-09-28",
             "value": 5367
+          },
+          {
+            "week": "2026-10-05",
+            "value": 6076
           }
         ]
       }
