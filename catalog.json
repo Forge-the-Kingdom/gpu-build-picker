@@ -17,16 +17,9 @@
       },
       "note": "Used market — varies; shop around.",
       "price": {
-        "value": 1492,
+        "value": 1395,
         "estimated": false,
         "sources": [
-          {
-            "url": "https://gpupoet.com/gpu/learn/price/november-2026/nvidia-geforce-rtx-3090",
-            "value": 1492,
-            "sourced_at": "2026-11-01",
-            "method": "gpupoet",
-            "confidence": "medium"
-          },
           {
             "url": "https://gpupoet.com/gpu/learn/price/october-2026/nvidia-geforce-rtx-3090",
             "value": 1395,
@@ -43,10 +36,6 @@
           }
         ],
         "history": [
-          {
-            "week": "2026-08-17",
-            "value": 1133
-          },
           {
             "week": "2026-08-24",
             "value": 1157
@@ -90,6 +79,10 @@
           {
             "week": "2026-11-02",
             "value": 1492
+          },
+          {
+            "week": "2026-11-09",
+            "value": 1395
           }
         ]
       }
@@ -126,10 +119,6 @@
           }
         ],
         "history": [
-          {
-            "week": "2026-08-17",
-            "value": 1453
-          },
           {
             "week": "2026-08-24",
             "value": 1478
@@ -173,6 +162,10 @@
           {
             "week": "2026-11-02",
             "value": 1763
+          },
+          {
+            "week": "2026-11-09",
+            "value": 1763
           }
         ]
       }
@@ -215,29 +208,25 @@
         "watts": 575
       },
       "price": {
-        "value": 6643,
+        "value": 6491,
         "estimated": false,
         "sources": [
           {
             "url": "https://gpupoet.com/gpu/learn/price/november-2026/nvidia-geforce-rtx-5090",
-            "value": 6643,
+            "value": 6491,
             "sourced_at": "2026-11-01",
             "method": "gpupoet",
             "confidence": "medium"
           },
           {
             "url": "https://gpupoet.com/gpu/learn/price/october-2026/nvidia-geforce-rtx-5090",
-            "value": 6455,
+            "value": 6480,
             "sourced_at": "2026-10-01",
             "method": "gpupoet",
             "confidence": "medium"
           }
         ],
         "history": [
-          {
-            "week": "2026-08-17",
-            "value": 4004
-          },
           {
             "week": "2026-08-24",
             "value": 4095
@@ -281,6 +270,10 @@
           {
             "week": "2026-11-02",
             "value": 6643
+          },
+          {
+            "week": "2026-11-09",
+            "value": 6491
           }
         ]
       }
